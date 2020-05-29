@@ -54,6 +54,6 @@ const name= muppet.name;
 const color=muppet.color;
 const song=muppet.song;
 const job=muppet.job;
-  partner: 'Miss Piggy'
+const partner = muppet.partner
 
 // 8. Use destructuring to assign songs 2 and 4, and Kermit's job and partner
