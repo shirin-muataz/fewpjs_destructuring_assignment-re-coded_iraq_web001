@@ -60,4 +60,4 @@ const partner = muppet.partner;
 const song2=k_muppet.k_album.the_muppet_movie.song_2;
 const song4=k_muppet.k_album.the_muppet_movie.song_4;
 const kjob=k_muppet.k_job;
-const partner=k_muppet.k_partner;
+const kpartner=k_muppet.k_partner;
